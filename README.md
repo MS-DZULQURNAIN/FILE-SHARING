@@ -4,8 +4,8 @@
   <a href="https://youtube.com/@msdzulqurnain5914">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-ff0000?style=flat-square&logo=youtube" width="250" height="40">&nbsp;
   </a>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-ff69b4?style=flat-square&logo=instagram" width="250" height="40">&nbsp;
+  <a href="https://instagram.com/ms_dzulqurnain09?igshid=YmMyMTA2M2Y=">
+    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-pink?style=flat-square&logo=instagram" width="250" height="40">&nbsp;
   </a><br>
   <a href="https://www.tiktok.com/@ms_dzulqurnain?_r=1&_d=e1ii1ll6jkblmk&language=id&sec_uid=MS4wLjABAAAAvteD7eBGyERB-w3bg4q5Y8fMdJfzrbbo2QpjVtQpDAYqJIxg7y9EKCkNND6N4q9I&share_author_id=6823405357177701378&source=h5_t&u_code=dc881ih0565j7b&timestamp=1673701948&user_id=6823405357177701378&sec_user_id=MS4wLjABAAAAvteD7eBGyERB-w3bg4q5Y8fMdJfzrbbo2QpjVtQpDAYqJIxg7y9EKCkNND6N4q9I&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7184522025100560134&share_link_id=8c044b07-7b52-476e-bc51-04adacb47e52&share_app_id=1180&ugbiz_name=Account&ug_btm=b8727%2Cb4907">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-black?style=flat-square&logo=tiktok" width="250" height="40">&nbsp;
