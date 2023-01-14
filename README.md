@@ -96,9 +96,9 @@ python3 main.py
 
 ### Variabel
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` TOKEN bot Anda dari @BotFather
+* `API_HASH` API HASH dari [my.telegram.org](my.telegram.org) 
+* `APP_ID` APP ID dari [my.telegram.org](my.telegram.org) 
+* `TG_BOT_TOKEN` TOKEN bot Anda dari [@BotFather](https://t.me/BotFather) 
 * `OWNER_ID` Harus memasukkan Id Telegram Anda
 * `CHANNEL_ID` Channel ID Anda contoh:- -100xxxxxxxx
 * `DATABASE_URL` URL MONGO DB Anda
