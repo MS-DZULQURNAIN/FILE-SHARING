@@ -90,6 +90,8 @@ python3 main.py
 /broadcast - broadcast any messages to bot users
 
 /stats - checking your bot uptime
+
+/uptime - cek uptime bot
 ```
 
 ### Variables
@@ -135,7 +137,7 @@ python3 main.py
 
 
 ### Support   
-- DONASI UNTUK ADMIN [SAWERIA]
+- DONASI UNTUK ADMIN [SAWERIA](https://saweria.co/msdzulqurnain) 😉
 - Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support 
 - dan join [Channel](https://t.me/sukamamamuuuu) Asupan 18+ 
 
