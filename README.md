@@ -13,7 +13,6 @@
   <a href="https://t.me/ms_dzulqurnain">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-blue?style=flat-square&logo=telegram" width="250" height="40">&nbsp;
   </a><br>
- - MY TELEGRAM GROUP -
   <a href="https://t.me/MS_DZULQURNAIN_NET">
     &nbsp;<img src="https://img.shields.io/badge/MS DZULQURNAIN NET-blue?logo=telegram" width="200" height="35">&nbsp;
   </a><br>
