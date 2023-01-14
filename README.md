@@ -98,13 +98,13 @@ python3 main.py
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
-* `DATABASE_URL` Your mongo db url
-* `DATABASE_NAME` Your mongo db session name
-* `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
+* `TG_BOT_TOKEN` TOKEN bot Anda dari @BotFather
+* `OWNER_ID` Harus memasukkan Id Telegram Anda
+* `CHANNEL_ID` Channel ID Anda contoh:- -100xxxxxxxx
+* `DATABASE_URL` URL MONGO DB Anda
+* `DATABASE_NAME` Nama session MONGO DB Anda
+* `ADMINS` Optional: Daftar username dari admins, hanya mereka yg dapat membuat link
+* `START_MESSAGE` Optional: Pesan start dari bot, gunakan HTML and <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional: Pesan Force sub dari bot, gunakan HTML & <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, tinggalkan 0 jika Anda ingin menonaktifkan force sub
 * `PROTECT_CONTENT` Optional: "True" jika Anda perlu mencegah penerusan file
