@@ -135,12 +135,11 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support dan join [Channel](https://www.telegram.dog/codexbotz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
 ### Credits
-- Allah SWT
 - [GITHUB](https://github.com) 
 - Terima kasih kehebatannya [Libary](https://github.com/pyrogram/pyrogram)
 - [CodeXBotz](https://github.com/CodeXBotz) 
