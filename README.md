@@ -145,4 +145,4 @@ Report Bugs, Give Feature Requests There..
 - Our Support Group Members
 
 ### FILE SHARING BOT TELEGRAM
-Reedit by (https:://github.com/MS-DZULQURNAIN)
+Reedit by (https://github.com/MS-DZULQURNAIN)
