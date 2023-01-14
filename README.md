@@ -56,45 +56,45 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
-#### Deploy on Railway
+#### DEPLOY DI RAILWAY
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
-#### Deploy on Koyeb
+#### DEPLOY DI KOYEB
 
-The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
+Cara tercepat untuk deploy aplikasi adalah dengan mengklik **Deploy to Koyeb** tombol dibawah.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MS-DZULQURNAIN/FILE-SHARING&branch=koyeb&name=filesharingbot)
 
 
 #### Deploy di VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
+git clone https://github.com/MS-DZULQURNAIN/FILE-SHARING
+cd FILE-SHARING
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
 
-### Admin Commands
+### PERINTAH ADMIN 
 
 ```
-/start - start the bot or get posts
+/start - start bot
 
-/batch - create link for more than one posts
+/batch - buat link lebih dari 1 file
 
-/genlink - create link for one post
+/genlink - buat link untuk 1 postingan
 
-/users - view bot statistics
+/users - cek jumlah pengguna
 
-/broadcast - broadcast any messages to bot users
+/broadcast - pesan broadcast untuk semua pengguna bot
 
 /stats - checking your bot uptime
 
 /uptime - cek uptime bot
 ```
 
-### Variabel
+### VARIABEL
 
 * `API_HASH` API HASH dari [my.telegram.org](my.telegram.org) 
 * `APP_ID` APP ID dari [my.telegram.org](my.telegram.org) 
@@ -109,7 +109,7 @@ python3 main.py
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, tinggalkan 0 jika Anda ingin menonaktifkan force sub
 * `PROTECT_CONTENT` Optional: "True" jika Anda perlu mencegah penerusan file
 
-### Variabel Tambahan
+### VARIABEL TAMBAHAN "OPSIONAL"
 
 * `CUSTOM_CAPTION` letakkan teks Teks khusus Anda jika Anda ingin Pengaturan Teks Khusus, Anda dapat menggunakan HTML dan <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Letakkan "True" untuk Nonaktifkan Tombol Berbagi Saluran, Default "False'
