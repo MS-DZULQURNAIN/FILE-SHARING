@@ -144,5 +144,5 @@ Report Bugs, Give Feature Requests There..
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Our Support Group Members
 
-### FILE SHARING
-Dzul
+### FILE SHARING BOT TELEGRAM
+Reedit by (https:://github.com/MS-DZULQURNAIN)
