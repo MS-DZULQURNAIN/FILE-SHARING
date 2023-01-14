@@ -111,7 +111,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks Teks khusus Anda jika Anda ingin Pengaturan Teks Khusus, Anda dapat menggunakan HTML dan <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks Teks khusus Anda jika Anda ingin Pengaturan Teks Khusus, Anda dapat menggunakan HTML dan <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 * `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
