@@ -1,14 +1,14 @@
 # File-sharing-Bot
 
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+  <a href="https://youtube.com/@msdzulqurnain5914">
+    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-ff0000?style=flat-square&logo=youtube" width="250" height="40">&nbsp;
   </a>
   <a href="https://t.me/CodeXBotz">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://youtube.com/@msdzulqurnain5914">
-    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-ff69b4?style=flat-square&logo=youtube" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-ff0000?style=flat-square&logo=youtube" width="250" height="40">&nbsp;
 </a>
   <a href="https://t.me/codexbotzsupport">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
