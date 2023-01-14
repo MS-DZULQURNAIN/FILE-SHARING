@@ -10,12 +10,12 @@
   <a href="https://www.tiktok.com/@ms_dzulqurnain?_r=1&_d=e1ii1ll6jkblmk&language=id&sec_uid=MS4wLjABAAAAvteD7eBGyERB-w3bg4q5Y8fMdJfzrbbo2QpjVtQpDAYqJIxg7y9EKCkNND6N4q9I&share_author_id=6823405357177701378&source=h5_t&u_code=dc881ih0565j7b&timestamp=1673701948&user_id=6823405357177701378&sec_user_id=MS4wLjABAAAAvteD7eBGyERB-w3bg4q5Y8fMdJfzrbbo2QpjVtQpDAYqJIxg7y9EKCkNND6N4q9I&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7184522025100560134&share_link_id=8c044b07-7b52-476e-bc51-04adacb47e52&share_app_id=1180&ugbiz_name=Account&ug_btm=b8727%2Cb4907">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-black?style=flat-square&logo=tiktok" width="250" height="40">&nbsp;
   </a><br>
- - MY PERSONAL ACCOUNT - 
+ - MY PERSONAL ACCOUNT -
   <a href="https://t.me/ms_dzulqurnain">
-    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-black?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a><br>
-  <a href="https://WA.me/6281237969411">
-    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-green?style=flat-square&logo=whatsapp" width="130" height="18">&nbsp;
+  <a href="https://wa.me/6281237969411">
+    &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-acffc5?style=flat-square&logo=whatsapp" width="130" height="18">&nbsp;
   </a>
 </p>
 
@@ -118,7 +118,7 @@ python3 main.py
 ### Support   
 - DONASI UNTUK ADMIN [SAWERIA](https://saweria.co/msdzulqurnain) 😉
 - Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support 
-- dan join [Channel](https://t.me/sukamamamuuuu) Asupan 18+ 
+- dan join [Channel](https://t.me/MS_DZULQURNAIN_NET) untuk info selanjutnya
 
 ### Credits
 - [GITHUB](https://github.com) 
