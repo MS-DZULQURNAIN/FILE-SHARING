@@ -47,8 +47,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 ### Installation
-#### Deploy on Heroku
-**SEBELUM DEPLOY DI HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+#### DEPLOY DI HEROKU
+**SEBELUM DEPLOY DI HEROKU, ANDA HARUS "FORK" REPO INI DAN MENGUBAH NAMANYA MENJADI APA SAJA**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 #### DEPLOY DI RAILWAY
