@@ -141,7 +141,7 @@ Report Bugs, Give Feature Requests There..
 
 ### Credits
 - Allah SWT
-- GITHUB.COM
+- [GITHUB](https://github.com) 
 - Terima kasih kehebatannya [Libary](https://github.com/pyrogram/pyrogram)
 - [CodeXBotz](https://github.com/CodeXBotz) 
 - Seluruh support member grup
