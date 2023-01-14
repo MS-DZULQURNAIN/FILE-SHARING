@@ -14,7 +14,7 @@
   <a href="https://t.me/ms_dzulqurnain">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a><br>
-  <a href="https://wa.me/6281237969411">
+  <a href="https://wa.me/6282137969411">
     &nbsp;<img src="https://img.shields.io/badge/MS%20DZULQURNAIN-acffc5?style=flat-square&logo=whatsapp" width="130" height="18">&nbsp;
   </a>
 </p>
