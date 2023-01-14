@@ -34,17 +34,15 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 
 
-### Features
-- Fully customisable.
-- Customisable welcome & Forcesub messages.
-- More than one Posts in One Link.
-- Can be deployed on heroku directly.
+### FITUR"
+- DAPAT DI SESUAIKAN SEPENUHNYA.
+- BISA EDIT PESAN SELAMAT DATANG & PESAN FORCE SUB.
+- DAPAT MEMPOSTING BEBERAPA FILE DI DALAM 1 LINK. 
+- DAPAT DIGUNAKAN DI HEROKU SECARA LANGSUNG. 
 
-### Setup
-
-- Add the bot to Database Channel with all permission
-- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
-
+### PENGATURAN AGAR BOT HIDUP
+- TAMBAHKAN BOT KE CHANNEL DATABASE & JADIKAN ADMIN
+- TAMBAHKAN BOT KE CH/GC FORCE SUB & JADIKAN ADMIN (JIKA MEMAKAI FORCE SUB) 
 ##
 ### Installation
 #### DEPLOY DI HEROKU
