@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support dan join [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support dan join [Channel](https://t.me/sukamamamuuuu) Asupan 18+ 
    
 Report Bugs, Give Feature Requests There..   
 
