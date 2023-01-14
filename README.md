@@ -134,10 +134,10 @@ python3 main.py
 * `{uptime}` - Bot Uptime
 
 
-## Support   
-Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support dan join [Channel](https://t.me/sukamamamuuuu) Asupan 18+ 
-   
-Report Bugs, Give Feature Requests There..   
+### Support   
+- DONASI UNTUK ADMIN [SAWERIA]
+- Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support 
+- dan join [Channel](https://t.me/sukamamamuuuu) Asupan 18+ 
 
 ### Credits
 - [GITHUB](https://github.com) 
