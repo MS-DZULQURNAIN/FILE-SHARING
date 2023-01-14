@@ -94,7 +94,7 @@ python3 main.py
 /uptime - cek uptime bot
 ```
 
-### Variables
+### Variabel
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
@@ -104,10 +104,10 @@ python3 main.py
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
-* `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
-* `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
-* `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
+* `FORCE_SUB_MESSAGE`Optional: Pesan Force sub dari bot, gunakan HTML & <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
+* `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, tinggalkan 0 jika Anda ingin menonaktifkan force sub
+* `PROTECT_CONTENT` Optional: "True" jika Anda perlu mencegah penerusan file
 
 ### Variabel Tambahan
 
