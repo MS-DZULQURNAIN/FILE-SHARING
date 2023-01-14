@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# FILE SHARING
 
 <p align="center">
   <a href="https://youtube.com/@msdzulqurnain5914">
