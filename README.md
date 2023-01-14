@@ -140,7 +140,7 @@ Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support
 Report Bugs, Give Feature Requests There..   
 
 ### Credits
-
+- [CodeXBotz](https://github.com/CodeXBotz) 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Our Support Group Members
 
