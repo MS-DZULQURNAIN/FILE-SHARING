@@ -140,9 +140,11 @@ Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support
 Report Bugs, Give Feature Requests There..   
 
 ### Credits
+- Allah SWT
+- GITHUB.COM
+- Terima kasih kehebatannya [Libary](https://github.com/pyrogram/pyrogram)
 - [CodeXBotz](https://github.com/CodeXBotz) 
-- Terima kasih kehebatan nya[Libary](https://github.com/pyrogram/pyrogram)
-- Seluruh support member grup kami
+- Seluruh support member grup
 
 ### FILE SHARING BOT TELEGRAM
 Reedit by [MS-DZULQURNAIN](https://github.com/MS-DZULQURNAIN)
