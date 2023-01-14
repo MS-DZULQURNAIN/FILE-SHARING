@@ -7,14 +7,14 @@
   <a href="https://t.me/CodeXBotz">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
+  <a href="https">
+    &nbsp;<img src="https://img.shields.io/badge/YOUTUBE-MS%20DZULQURNAIN-ff69b4" width="130" height="18">&nbsp;
+</a>
   <a href="https://t.me/codexbotzsupport">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/MS-DZULQURNAIN/FILE-SHARING/stargazers">
+  <a href="https://github.com/MS-DZULQURNAIN/FILE-SHARING">
     <img src="https://img.shields.io/github/stars/MS-DZULQURNAIN/FILE-SHARING?style=social">
   </a>
   <a href="https://github.com/MS-DZULQURNAIN/FILE-SHARING/fork">
