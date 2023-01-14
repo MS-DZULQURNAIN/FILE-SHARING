@@ -141,8 +141,8 @@ Report Bugs, Give Feature Requests There..
 
 ### Credits
 - [CodeXBotz](https://github.com/CodeXBotz) 
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
+- Terima kasih kehebatan nya[Libary](https://github.com/pyrogram/pyrogram)
+- Seluruh support member grup kami
 
 ### FILE SHARING BOT TELEGRAM
 Reedit by [MS-DZULQURNAIN](https://github.com/MS-DZULQURNAIN)
