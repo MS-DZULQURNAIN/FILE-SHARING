@@ -34,9 +34,8 @@
 - TAMBAHKAN BOT KE CHANNEL DATABASE & JADIKAN ADMIN
 - TAMBAHKAN BOT KE CH/GC FORCE SUB & JADIKAN ADMIN (JIKA MEMAKAI FORCE SUB) 
 
-# Installation
-
 <details>
+<summary><h3><b>INSTALLATION</h3></b></summary>
 
 #### DEPLOY DI HEROKU
 **SEBELUM DEPLOY DI HEROKU, ANDA HARUS "FORK" REPO INI DAN MENGUBAH NAMANYA MENJADI APA SAJA**<br>
@@ -63,7 +62,8 @@ python3 main.py
 ````
 </details>
 
-## PERINTAH ADMIN 
+<details>
+<summary><h3><b>PERINTAH ADMIN</h3></b></summary>
 
 ```
 /start - start bot
@@ -80,10 +80,13 @@ python3 main.py
 
 /uptime - cek uptime bot
 ```
+</details>
+
+
+<details>
+<summary><h3><b>VARIABEL</h3></b></summary>
 
 ### VARIABEL
-<details>
-
 * `API_HASH` API HASH dari [my.telegram.org](my.telegram.org) 
 * `APP_ID` APP ID dari [my.telegram.org](my.telegram.org) 
 * `TG_BOT_TOKEN` TOKEN bot Anda dari [@BotFather](https://t.me/BotFather) 
@@ -95,16 +98,17 @@ python3 main.py
 * `START_MESSAGE` Optional: Pesan start dari bot, gunakan HTML and <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional: Pesan Force sub dari bot, gunakan HTML & <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, tinggalkan 0 jika Anda ingin menonaktifkan force sub
-* `PROTECT_CONTENT` Optional: "True" jika Anda perlu mencegah penerusan file </details>
+* `PROTECT_CONTENT` Optional: "True" jika Anda perlu mencegah penerusan file
 
 ### VARIABEL TAMBAHAN "OPSIONAL"
-<details>
-
 * `CUSTOM_CAPTION` letakkan teks Teks khusus Anda jika Anda ingin Pengaturan Teks Khusus, Anda dapat menggunakan HTML dan <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Letakkan "True" untuk Nonaktifkan Tombol Berbagi Saluran, Default "False'
 * `BOT_STATS_TEXT` letakkan teks khusus Anda untuk perintah statistik, gunakan HTML dan <a href='https://github.com/MS-DZULQURNAIN/FILE-SHARING/blob/main/README.md#fillings'>fillings</a>
 * `USER_REPLY_TEXT` letakkan teks Anda untuk ditampilkan saat pengguna mengirim pesan apa pun, gunakan HTML
 </details>
+
+<details>
+<summary><h3><b>FILLINGS & EDIT</h3></b></summary>
 
 ## Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
@@ -122,7 +126,7 @@ python3 main.py
 
 #### EDIT_STATISTIK
 
-* `{uptime}` - Cek Bot Uptime
+* `{uptime}` - Cek Bot Uptime</details>
 
 
 ### Support   
@@ -130,11 +134,13 @@ python3 main.py
 - Join [Telegram Group](https://t.me/MS_DZULQURNAIN_NET) Untuk support 
 - dan join [Channel](https://t.me/MS_DZULQURNAIN_NET) untuk info selanjutnya
 
-### CREDIT
+<details>
+<summary><h3><b>CREDIT TO</h3></b></summary>
+
 - [GITHUB](https://github.com) 
 - Terima kasih kehebatannya [Libary](https://github.com/pyrogram/pyrogram)
 - [CodeXBotz](https://github.com/CodeXBotz) 
-- Seluruh support member grup</details></summary>
+- Seluruh support member grup</details>
 
 ### FILE SHARING BOT TELEGRAM
 Reedit by [MS-DZULQURNAIN](https://github.com/MS-DZULQURNAIN)
