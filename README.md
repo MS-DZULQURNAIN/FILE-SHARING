@@ -22,20 +22,22 @@
   </a><br>
 </p>
 
-# FITUR-FITUR
 <details>
+<summary><h3><b>FITUR & SETTING⚙🛠</h3></b></summary>
+
+#### FITUR-FITUR
 
 - DAPAT DI SESUAIKAN SEPENUHNYA.
 - BISA EDIT PESAN SELAMAT DATANG & PESAN FORCE SUB.
 - DAPAT MEMPOSTING BEBERAPA FILE DI DALAM 1 LINK. 
-- DAPAT DIGUNAKAN DI HEROKU SECARA LANGSUNG.</details>
+- DAPAT DIGUNAKAN DI HEROKU SECARA LANGSUNG.
 
-### PENGATURAN AGAR BOT HIDUP
+#### PENGATURAN AGAR BOT HIDUP
 - TAMBAHKAN BOT KE CHANNEL DATABASE & JADIKAN ADMIN
-- TAMBAHKAN BOT KE CH/GC FORCE SUB & JADIKAN ADMIN (JIKA MEMAKAI FORCE SUB) 
+- TAMBAHKAN BOT KE CH/GC FORCE SUB & JADIKAN ADMIN (JIKA MEMAKAI FORCE SUB) </details>
 
 <details>
-<summary><h3><b>INSTALLATION</h3></b></summary>
+<summary><h3><b>INSTALLATION⌨</h3></b></summary>
 
 #### DEPLOY DI HEROKU
 **SEBELUM DEPLOY DI HEROKU, ANDA HARUS "FORK" REPO INI DAN MENGUBAH NAMANYA MENJADI APA SAJA**<br>
@@ -63,7 +65,7 @@ python3 main.py
 </details>
 
 <details>
-<summary><h3><b>PERINTAH ADMIN</h3></b></summary>
+<summary><h3><b>PERINTAH ADMIN👷</h3></b></summary>
 
 ```
 /start - start bot
@@ -84,7 +86,7 @@ python3 main.py
 
 
 <details>
-<summary><h3><b>VARIABEL</h3></b></summary>
+<summary><h3><b>VARIABEL📋</h3></b></summary>
 
 ### VARIABEL
 * `API_HASH` API HASH dari [my.telegram.org](my.telegram.org) 
@@ -108,7 +110,7 @@ python3 main.py
 </details>
 
 <details>
-<summary><h3><b>FILLINGS & EDIT</h3></b></summary>
+<summary><h3><b>FILLINGS & EDIT💻</h3></b></summary>
 
 ## Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
@@ -135,7 +137,7 @@ python3 main.py
 - dan join [Channel](https://t.me/MS_DZULQURNAIN_NET) untuk info selanjutnya
 
 <details>
-<summary><h3><b>CREDIT TO</h3></b></summary>
+<summary><h3><b>CREDIT TO🤗</h3></b></summary>
 
 - [GITHUB](https://github.com) 
 - Terima kasih kehebatannya [Libary](https://github.com/pyrogram/pyrogram)
