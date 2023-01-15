@@ -154,9 +154,11 @@ async def not_joined(client: Client, message: Message):
 
 @Bot.on_message(filters.command('users') & filters.private & filters.user(ADMINS))
 async def get_users(client: Bot, message: Message):
-    msg = await client.send_message(chat_id=message.chat.id, text=WAIT_MSG)
+    msg = await client.send_message(
+        chat_id=message.chat.id, text="<code>Utiwi masehh...</code>
+    ) 
     users = await full_userbase()
-    await msg.edit(f"{len(users)} users are using this bot")
+    await msg.edit(f"{len(users)} Jumlah pascol")
 
 @Bot.on_message(filters.private & filters.command('broadcast') & filters.user(ADMINS))
 async def send_text(client: Bot, message: Message):
@@ -169,7 +171,7 @@ async def send_text(client: Bot, message: Message):
         deleted = 0
         unsuccessful = 0
         
-        pls_wait = await message.reply("<i>Broadcasting Message.. This will Take Some Time</i>")
+        pls_wait = await message.reply("<i>Mengirim broadcast...Sabar tod</i>")
         for chat_id in query:
             try:
                 await broadcast_msg.copy(chat_id)
@@ -189,7 +191,7 @@ async def send_text(client: Bot, message: Message):
                 pass
             total += 1
         
-        status = f"""<b><u>Broadcast Completed</u>
+        status = f"""<b><u>Berhasil broadcast</u>
 
 Total Para Pascol: <code>{total}</code>
 Berhasil mengirim surat cinta: <code>{successful}</code>
