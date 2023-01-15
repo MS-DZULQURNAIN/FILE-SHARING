@@ -191,11 +191,11 @@ async def send_text(client: Bot, message: Message):
         
         status = f"""<b><u>Broadcast Completed</u>
 
-Total Users: <code>{total}</code>
-Successful: <code>{successful}</code>
-Blocked Users: <code>{blocked}</code>
-Deleted Accounts: <code>{deleted}</code>
-Unsuccessful: <code>{unsuccessful}</code></b>"""
+Total Para Pascol: <code>{total}</code>
+Berhasil mengirim surat cinta: <code>{successful}</code>
+Pengguna diblokir: <code>{blocked}</code>
+Akun dihapus karena nakal: <code>{deleted}</code>
+Gagal ky percintaan mimin: <code>{unsuccessful}</code></b>"""
         
         return await pls_wait.edit(status)
 
