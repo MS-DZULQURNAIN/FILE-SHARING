@@ -200,6 +200,8 @@ Unsuccessful: <code>{unsuccessful}</code></b>"""
         return await pls_wait.edit(status)
 
     else:
-        msg = await message.reply(REPLY_ERROR)
+        msg = await message.reply(
+            "<code>kalo broadcast sambil Reply pesan syg.<code>"
+) 
         await asyncio.sleep(8)
         await msg.delete()
