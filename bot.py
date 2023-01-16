@@ -1,4 +1,5 @@
 #(©)Codexbotz
+#Reedit by MS DZULQURNAIN
 
 from aiohttp import web
 from plugins import web_server
@@ -50,23 +51,23 @@ class Bot(Client):
                 self.invitelink = link
             except Exception as a:
                 self.LOGGER(__name__).warning(a)
-                self.LOGGER(__name__).warning("Bot can't Export Invite link from Force Sub Channel!")
-                self.LOGGER(__name__).warning(f"Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: {FORCE_SUB_CHANNEL}")
-                self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/CodeXBotzSupport for support")
+                self.LOGGER(__name__).warning("BOT TIDAK BISA MENERIMA INVITE LINK DARI CHANNEL FORCE SUB!")
+                self.LOGGER(__name__).warning(f"JADIKAN BOT SEBAGAI ADMIN DI CHANNEL FORCE SUB JIKA SUDAH SILAKAN CEK KEMBALI😗, Current Force Sub Channel Value: {FORCE_SUB_CHANNEL}")
+                self.LOGGER(__name__).info("\nBOT BERHENTI😞. Join https://t.me/MS_DZULQURNAIN_NET untuk info lebih lanjut")
                 sys.exit()
         try:
             db_channel = await self.get_chat(CHANNEL_ID)
             self.db_channel = db_channel
-            test = await self.send_message(chat_id = db_channel.id, text = "Test Message")
+            test = await self.send_message(chat_id = db_channel.id, text = "🔥🔥🔥")
             await test.delete()
         except Exception as e:
             self.LOGGER(__name__).warning(e)
-            self.LOGGER(__name__).warning(f"Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value {CHANNEL_ID}")
-            self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/CodeXBotzSupport for support")
+            self.LOGGER(__name__).warning(f"JADIKAN BOT SEBAGAI ADMIN DI CHANNEL DATABASE JIKA SUDAH SILAKAN CEK KEMBALI😗, Current Value {CHANNEL_ID}")
+            self.LOGGER(__name__).info("\nBOT BERHENTI😞. Join https://t.me/MS_DZULQURNAIN_NET untuk info lebih lanjut")
             sys.exit()
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/CodeXBotz")
+        self.LOGGER(__name__).info(f"BOT TELAH AKTIF🥳🥳🥳..!\n\nDibuat oleh \nhttps://t.me/MS_DZULQURNAIN_NET")
         self.LOGGER(__name__).info(f""" \n\n
 ███╗░░░███╗░██████╗  ██████╗░███████╗██╗░░░██╗██╗░░░░░░██████╗░██╗░░░██╗██████╗░███╗░░██╗░█████╗░██╗███╗░░██╗
 ████╗░████║██╔════╝  ██╔══██╗╚════██║██║░░░██║██║░░░░░██╔═══██╗██║░░░██║██╔══██╗████╗░██║██╔══██╗██║████╗░██║
