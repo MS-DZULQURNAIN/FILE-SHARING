@@ -55,7 +55,7 @@ async def start_command(client: Client, message: Message):
                 ids = [int(int(argument[1]) / abs(client.db_channel.id))]
             except:
                 return
-        temp_msg = await message.reply("Sabar tod...")
+        temp_msg = await message.reply("Sabar yaa...")
         try:
             messages = await get_messages(client, ids)
         except:
@@ -88,8 +88,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("😊 About Me", callback_data = "about"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton("Tentang saya", callback_data = "about"),
+                    InlineKeyboardButton("Tutup", callback_data = "close")
                 ]
             ]
         )
@@ -110,9 +110,9 @@ async def start_command(client: Client, message: Message):
     
 #=====================================================================================##
 
-WAIT_MSG = """"<b>Processing ...</b>"""
+WAIT_MSG = """"<b>Sedang diproses sabar ya...</b>"""
 
-REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
+REPLY_ERROR = """<code>Hummm eror.</code>"""
 
 #=====================================================================================##
 
@@ -131,7 +131,7 @@ async def not_joined(client: Client, message: Message):
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text = 'Try Again',
+                    text = 'Coba Lagi',
                     url = f"https://t.me/{client.username}?start={message.command[1]}"
                 )
             ]
@@ -158,7 +158,7 @@ async def get_users(client: Bot, message: Message):
         chat_id=message.chat.id, text="<code>Utiwi masehh...</code>
     ) 
     users = await full_userbase()
-    await msg.edit(f"{len(users)} Jumlah pascol")
+    await msg.edit(f"{len(users)} Jumlah Pengguna")
 
 @Bot.on_message(filters.private & filters.command('broadcast') & filters.user(ADMINS))
 async def send_text(client: Bot, message: Message):
@@ -171,7 +171,7 @@ async def send_text(client: Bot, message: Message):
         deleted = 0
         unsuccessful = 0
         
-        pls_wait = await message.reply("<i>Mengirim broadcast...Sabar tod</i>")
+        pls_wait = await message.reply("<i>Mengirim broadcast...Sabar ya</i>")
         for chat_id in query:
             try:
                 await broadcast_msg.copy(chat_id)
@@ -193,7 +193,7 @@ async def send_text(client: Bot, message: Message):
         
         status = f"""<b><u>Berhasil broadcast</u>
 
-Total Para Pascol: <code>{total}</code>
+Total Pengguna: <code>{total}</code>
 Berhasil mengirim surat cinta: <code>{successful}</code>
 Pengguna diblokir: <code>{blocked}</code>
 Akun dihapus karena nakal: <code>{deleted}</code>
@@ -203,7 +203,7 @@ Gagal ky percintaan mimin: <code>{unsuccessful}</code></b>"""
 
     else:
         msg = await message.reply(
-            "<code>kalo broadcast sambil Reply pesan syg.<code>"
+            "<code>kalo broadcast sambil Reply pesan.<code>"
 ) 
         await asyncio.sleep(8)
         await msg.delete()
