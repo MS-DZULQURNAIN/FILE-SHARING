@@ -67,7 +67,7 @@ class Bot(Client):
             sys.exit()
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"BOT TELAH AKTIF🥳🥳🥳..!\n\nDibuat oleh \nhttps://t.me/MS_DZULQURNAIN_NET")
+        self.LOGGER(__name__).info(f"BOT TELAH AKTIF🔥🔥🔥..!\n\nDibuat oleh \nhttps://t.me/MS_DZULQURNAIN_NET")
         self.LOGGER(__name__).info(f""" \n\n
 ███╗░░░███╗░██████╗  ██████╗░███████╗██╗░░░██╗██╗░░░░░░██████╗░██╗░░░██╗██████╗░███╗░░██╗░█████╗░██╗███╗░░██╗
 ████╗░████║██╔════╝  ██╔══██╗╚════██║██║░░░██║██║░░░░░██╔═══██╗██║░░░██║██╔══██╗████╗░██║██╔══██╗██║████╗░██║
