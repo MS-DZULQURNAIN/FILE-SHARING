@@ -1,62 +1,58 @@
 {
-  "name": "TG File Share/Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
-  "keywords": [
-    "telegram",
-    "file",
-    "sharing"
-  ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "name": "BOT FILE SHARING TELEGRAM",
+  "description": "MS DZULQURNAIN",
+  "keywords": ["bot"],
+  "repository": "https://github.com/MS-DZULQURNAIN/FILE-SHARING",
+  "logo": "",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "Bot token dari@Botfather",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "description": "ID TELEGRAM",
+      "value": "1337085565"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "description": "APP ID dari my.telegram.org",
+      "value": "16452568"
     },
     "DATABASE_URL": {
-      "description": "Paste your mongo db url",
+      "description": "Database dari MongoDB",
       "value": "url"
     },
     "DATABASE_NAME":{
-      "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "description": "Nama Database di MongoDB",
+      "value": "MSDZULQURNAIN"
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "description": "API HASH dari my.telegram.org",
+      "value": "f936697c5c9e5bffd433babef7a4e4c9"
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "description": "ID channel database di telegram (wajib channel privat)",
+      "value": "-1001749379103"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "description": "ID channel forcesub,jika tidak pakai forcesub isi dengan 0",
       "value": "0"
     },
     "START_MESSAGE": {
-      "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "description": "Optional: Pesan start di bot,bisa pakai format HTML",
+      "value": "Hallo {first}\n\nSaya adalah bot file sharing saya bisa mengirim kamu file melalui link yg telah dibuat\n\nSebelum menggunakan saya kamu wajib join channel saya."
     },
     "FORCE_SUB_MESSAGE": {
-      "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "description": "Optional: Pesan forcesub di bot,bisa pakai format HTML",
+      "value": "Hallo {first}\n\n<b>Kamu harus join channel saya sebelum memakai saya\n\nJoin channel dibawah😉</b>"
     },
     "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "description": "ID admin yg dapat membuat link",
+      "value": "1337085565",
       "required": false
     },
     "PROTECT_CONTENT": {
-      "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "description": "Protect content agar bot tidak bisa di screenshot & diteruskan",
+      "value": "True",
       "required": false
     }
   },
