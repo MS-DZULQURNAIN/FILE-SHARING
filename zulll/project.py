@@ -6,4 +6,4 @@ bcastt_text = "**Silahkan Forward Pesan TERAKHIR dari Channel DataBase\n\nAtau K
 
 genlink_text = "**Silahkan Forward Pesan dari Channel DataBase\n\nAtau Kirim Link Postingan dari Channel Database**"
 
-souce_info_text = "**❖BOT FILE SHARING TELEGRAM❖\n\n✰ Owner Repo : @MSDZULQURNAIN\n⇝ Channel : @MSPR0JECT\n⇝ Support : @MsSUPP0RT\n\nᝣ 🄼🅂  𝗗🆉𝗨𝗟𝚀𝐔𝐑𝐍Λ𝐈𝐍 ק𝙍♢JΞC† ᝣ**"
+source_info_text = "**❖BOT FILE SHARING TELEGRAM❖\n\n✰ Owner Repo : @MSDZULQURNAIN\n⇝ Channel : @MSPR0JECT\n⇝ Support : @MsSUPP0RT\n\nᝣ 🄼🅂  𝗗🆉𝗨𝗟𝚀𝐔𝐑𝐍Λ𝐈𝐍 ק𝙍♢JΞC† ᝣ**"
